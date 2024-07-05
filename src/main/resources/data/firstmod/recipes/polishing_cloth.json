@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+        " PP",
+        "PLP",
+        "PP "
+    ],
+    "key": {
+        "P": {
+            "item": "minecraft:paper"
+        },
+        "L": {
+            "item": "minecraft:leather"
+        }
+    },
+    "result": {
+        "id": "firstmod:polishing_cloth"
+    }
+}

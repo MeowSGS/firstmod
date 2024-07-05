@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+        "###",
+        "###",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "raw_opal"
+        }
+    },
+    "result": {
+        "id": "firstmod:raw_opal_block"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "item.firstmod.ruby": "Ruby",
+    "item.firstmod.camellia": "Camellia",
+    "item.firstmod.skull": "skull",
+    "item.firstmod.raw_ruby": "Raw Ruby",
+    "item.firstmod.polishing_cloth": "Polishing Cloth",
+    "item.firstmod.polished_ruby": "Polished Ruby",
+    "item.firstmod.opal": "Opal",
+    "item.firstmod.raw_opal": "Raw Opal",
+    "item.firstmod.polished_opal": "Polished Opal",
+    "item.firstmod.polished_emerald": "Polished Emerald",
+
+    "block.firstmod.ruby_block": "Block of Ruby",
+    "block.firstmod.raw_ruby_block": "Raw Block of Ruby",
+    "block.firstmod.opal_block": "Block of Opal",
+    "block.firstmod.raw_opal_block": "Raw Block of Opal",
+
+    "creative.first_tab": "Custom Creative Tab"
+}
